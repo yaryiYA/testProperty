@@ -1,0 +1,4 @@
+app:
+  activity-controls:
+    manageExternalData: ${EXTERNAL_DATA_PROCESSING_ENABLED:false}
+    remoteMessage: "Hello"
