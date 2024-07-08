@@ -4,4 +4,4 @@ server:
 app:
   activity-controls:
     manageExternalData: false
-    remoteMessage: hello
+    remoteMessage: "hello"
