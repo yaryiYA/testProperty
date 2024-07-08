@@ -1,7 +1,0 @@
-server:
-  port: 8081
-  
-app:
-  activity-controls:
-    manageExternalData: true
-    remoteMessage: "hello"
