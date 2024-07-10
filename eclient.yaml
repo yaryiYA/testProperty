@@ -3,6 +3,6 @@ server:
   
 app:
   activity-controls:
-    generalExternalData: true
+    generalManageExternalData: true
     remoteMessage: "Hello"
     
